@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yana
 - 👀 I’m interested in coding.
-- 🌱 I’m currently studying HTML, CSS, JavaScript.
+- 🌱 I’m currently studying JavaScript.
 - 💞️ I’m looking to collaborate on any suitable project or internship.
 - 📫 How to reach me yana.germatskaya@gmail.com or yn_gr on Instagram.
 
