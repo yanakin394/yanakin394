@@ -6,7 +6,7 @@
 
 🛠️ Languages and Tools :
 
-React  Redux   JavaScript  CSS  HTML  Firebase  MySQL  NodeJS  Git Figma Trello
+JavaScript  CSS  HTML  Git Figma Trello
 <!---
 yanakin394/yanakin394 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
