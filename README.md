@@ -1,8 +1,8 @@
-<p><img src="banner" alt="banner"></p> 
+<p><img src="banner" alt="banner.jpeg" align="center"></p> 
 <h1 align="center">Hi 👋, I'm Yana</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanakin394&label=Profile%20views&color=0e75b6&style=flat" alt="yanakin394" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanakin394&label=Profile%20views&color=0e75b6&style=flat" alt="yanakin394" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanakin394" alt="yanakin394" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanakin394" alt="yanakin394" /></a> </p>  -->-->
 
 - 🌱 I’m currently learning **React.js**
 
