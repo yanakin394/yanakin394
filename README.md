@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanakin394" alt="yanakin394" /></a> </p>  -->
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Trying to nail **React.js** in between my actual job and motherhood.
 
 - 👨‍💻 All of my projects are available at [https://github.com/yanakin394](https://github.com/yanakin394)
 
