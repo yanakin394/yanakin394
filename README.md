@@ -3,11 +3,12 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanakin394" alt="yanakin394" /></a> </p>  -->
 
-- 🌱 Trying to nail **React.js** in between my actual job and motherhood.
+- 🌱 Trying to nail **React.js**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/yanakin394](https://github.com/yanakin394)
 
 - 📫 How to reach me **yana.germatskaya@gmail.com**
+- Plan to study TS next.
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanakin394&" alt="yanakin394" /></p>
