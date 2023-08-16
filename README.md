@@ -10,7 +10,7 @@ I'm Yana and I'm a Frontend developer from Minsk, who lives in Izmir.
 - <a href="https://t.me/yanakin394" target="blank">Telegram</a>
 - <a href="yana.germatskaya@gmail.com" target="blank">E-mail</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanakin394&layout=compact)](https://github.com/yanakin394/github-readme-stats)
 
 ### Technologies:
 <div>
