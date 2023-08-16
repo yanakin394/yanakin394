@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yana</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Gulkovva19's+Github+Profile..)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Gulkovva19's+Github+Profile..)](https://git.io/typing-svg)
-- 🌱 Trying to nail **React.js** and improve JS.
+## Hi ✌🏽,
+
+I'm Yana and I'm a Frontend developer from Minsk, who lives in Izmir.
+
+- 💻 I’m currently working on ReactJS and JS
 - Plan to study TS next.
 
 ### Connect with me:
 - <a href="https://www.linkedin.com/in/yana-germatskaya-01822939/" target="blank">LinkedIn</a>
 - <a href="https://t.me/yanakin394" target="blank">Telegram</a>
 - <a href="yana.germatskaya@gmail.com" target="blank">E-mail</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies:
 <div>
