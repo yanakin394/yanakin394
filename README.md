@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yana</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanakin394&label=Profile%20views&color=0e75b6&style=flat" alt="yanakin394" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanakin394" alt="yanakin394" /></a> </p>  -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Gulkovva19's+Github+Profile..)](https://git.io/typing-svg)
 
 - 🌱 Trying to nail **React.js** and improve JS.
 - Plan to study TS next.
