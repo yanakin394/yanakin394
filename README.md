@@ -1,5 +1,5 @@
 ## Hi ✌🏽,
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Yanakin's+Github+Profile./.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Yanakin's+Github+Profile...)](https://git.io/typing-svg)
 
 I'm Yana and I'm a Frontend developer from Minsk, who lives in Izmir.
 
